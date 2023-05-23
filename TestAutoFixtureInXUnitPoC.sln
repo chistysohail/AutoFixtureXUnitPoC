@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutoFixtureInXUnitPoC", "TestAutoFixtureInXUnitPoC\TestAutoFixtureInXUnitPoC.csproj", "{B1CB4AE9-7D2E-4A42-8DCB-7E6000BBCC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CB4AE9-7D2E-4A42-8DCB-7E6000BBCC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CB4AE9-7D2E-4A42-8DCB-7E6000BBCC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CB4AE9-7D2E-4A42-8DCB-7E6000BBCC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CB4AE9-7D2E-4A42-8DCB-7E6000BBCC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3111C53D-CA7C-4F57-9DEF-570039EFCB99}
+	EndGlobalSection
+EndGlobal
